@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://count.getloli.com/get/@:Yowoapple" alt=":rule34" />
+  <img src="https://count.getloli.com/get/@:Yowoapple" alt="?theme=rule34" />
 </div>
 <div id="badges">
   <a href="https://twitter.com/AppleJackOAO">
