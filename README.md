@@ -25,11 +25,11 @@
 ### :woman_technologist: About Me :
 
 I am a New Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Taiwan.
-- :telescope: I am helping TREM with Russian translation.
+- :telescope: I am working hard to become the ideal child in my mind.
 
-- :seedling: I am learning C++.
+- :seedling: 努力學習成為我心目中理想的孩兒。
 
-- :zap: In my free time, I mostly like to play games.
+- :zap: 多學多看不虧，虧的是別人，學會了那其他人就是傻子，所以與其無聊不如學習新知識，成為新中國好青年。
 
 - :mailbox:How to contact me: [![Linkedin Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AppleJackOAO)
 
