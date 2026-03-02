@@ -12,6 +12,10 @@
   </p>
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yowoapple&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yowoapple&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <br><br><br><br><br>
 
 <div style="background:#000;color:#8B0000;padding:40px;font-family:monospace;line-height:1.1;direction:rtl;text-align:right;filter:blur(0.6px) contrast(1.5);box-shadow: inset 0 0 50px #400000;">
