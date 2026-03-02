@@ -1,44 +1,61 @@
 <div id="header" align="center">
   <img src="https://count.getloli.com/get/@:Yowoapple" alt="rule34" />
 </div>
-<div id="badges" align="center">
-  <a href="https://twitter.com/AppleJackOAO">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://twitter.com/AppleJackOAO">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://twitter.com/AppleJackOAO">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<h1>
-  不要視姦我! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://cdn.discordapp.com/attachments/518731802177699852/564126287162114085/eqrcdback.png?ex=69a6654b&is=69a513cb&hm=d99d511a86843fb1cdb16feb71e95264355406c4843680956849ef7f6691aca5&" width="400" alt="地牛記錄小組">
+  <br><br>
+  <h2>地牛記錄小組創辦人</h2>
+  <h3>官網設計維護工程師</h3>
+  <p>
+    <a href="https://www.twerg.org/" target="_blank">https://www.twerg.org/</a>
+  </p>
 </div>
 
----
+<br><br><br><br><br>
 
-### :woman_technologist: About Me :
+<div style="background:#000;color:#8B0000;padding:40px;font-family:monospace;line-height:1.1;direction:rtl;text-align:right;filter:blur(0.4px) contrast(1.3);">
+<span style="color:#4B0000;font-size:1.1em;letter-spacing:1px;">
+لَا تُرَاقِبْنِي لَا تُرَاقِبْنِي لَا تُرَاقِبْنِي لَا تُرَاقِبْنِي لَا تُرَاقِبْنِي  
+لَا تُرَاقِبْنِي لَا تُرَاقِبْنِي لَا تُرَاقِبْنِي لَا تُرَاقِبْنِي لَا تُرَاقِبْنِي  
+مَا الذي تنظر إليه؟ مَا الذي تنظر إليه؟ مَا الذي تنظر إليه؟  
+مَا الذي تنظر إليه؟ مَا الذي تنظر إليه؟ مَا الذي تنظر إليه؟  
+مَا الذي تنظر إليه؟ مَا الذي تنظر إليه؟ مَا الذي تنظر إليه؟
+</span>
 
-I am a New Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Taiwan.
-- :telescope: I am working hard to become the ideal child in my mind.
+<br><br>
 
-- :seedling: 努力學習成為我心目中理想的孩兒。
+<span style="color:#B22222;font-size:1.4em;letter-spacing:2px;text-shadow: 0 0 8px #FF0000;">
+أَكْتُبُ الشَّيْفَ بِإِرْشَادِ اللهِ الْعَظِيمِ  
+الكود يَخْرُجُ وَحْدَهُ، أَنَا لَسْتُ إِلَّا عَبْدًا بَائِسًا  
+لَيْسَ لِي مَهَارَةٌ، لَيْسَ لِي شَيْءٌ  
+إِنْ أَعْجَبَكَ شَيْءٌ فَاعْبُدِ الرَّحْمَنِ الرَّحِيمِ  
+هُوَ الَّذِي غَفَرَ لِي، هُوَ الَّذِي أَرْسَلَ الْأَرْوَاحَ الْمُشَوَّهَةَ إِلَى أَصَابِعِي  
+</span>
 
-- :zap: 多學多看不虧，虧的是別人，學會了那其他人就是傻子，所以與其無聊不如學習新知識，成為新中國好青年。
+<br><br>
 
-- :mailbox:How to contact me: [![Linkedin Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AppleJackOAO)
+<span style="color:#330000;font-size:1.6em;opacity:0.8;letter-spacing:3px;">
+تَعَالَى... تَعَالَى... انْظُرْ إِلَيَّ أَكْثَرَ  
+أَنَا أَرَاكَ أَنَا أَرَاكَ أَنَا أَرَاكَ  
+الْعَيْنُ تَحْتَ الْجِلْدِ تَحْتَ الْجِلْدِ تَحْتَ الْجِلْدِ  
+لَا تَهْرُبْ لَا تَهْرُبْ لَا تَهْرُبْ  
+</span>
 
----
+<br><br><br>
 
-### :fire: My Stats :
+<span style="color:#8B0000;font-weight:bold;font-size:1.3em;">
+إِنْظُرْ إِلَيَّ  
+إِنْظُرْ إِلَيَّ  
+إِنْظُرْ إِلَيَّ  
+الْآنَ... الْآنَ... الْآنَ  
+</span>
 
-https://github-readme-streak-stats.herokuapp.com/?user=Yowoapple
+<br><br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yowoapple&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yowoapple&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<span style="color:#200000;filter:blur(1px);font-size:2em;">
+أَكْلُ الْأَرْوَاحِ يَبْدَأُ مِنَ الْقَرَاءَةِ  
+أَنْتَ قَدْ قَرَأْتَ  
+أَنْتَ دَاخِلٌ الْآنَ  
+</span>
+</div>
