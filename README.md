@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/518731802177699852/564126287162114085/eqrcdback.png?ex=69a6654b&is=69a513cb&hm=d99d511a86843fb1cdb16feb71e95264355406c4843680956849ef7f6691aca5&" width="400" alt="地牛記錄小組">
+  <img src="https://www.twerg.org/logo.png" width="400" alt="地牛記錄小組">
   <br><br>
   <h2>地牛記錄小組創辦人</h2>
   <h3>官網設計維護工程師</h3>
